@@ -1,1 +1,7 @@
+streamlit
 nltk
+beautifulsoup4
+requests
+scikit-learn
+matplotlib
+googletrans==4.0.0-rc1
