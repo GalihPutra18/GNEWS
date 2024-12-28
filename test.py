@@ -1,10 +1,11 @@
 # Import libraries
-import nltk
+
 import streamlit as st
 import requests
 import matplotlib.pyplot as plt
 import io
 import re
+import nltk
 from bs4 import BeautifulSoup
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
